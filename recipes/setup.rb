@@ -6,6 +6,6 @@ package 'tree'
 package 'git'
 
 file '/etc/motd' do
-  content 'Hello World!'
+  content 'Hello Surya!'
 end
 
